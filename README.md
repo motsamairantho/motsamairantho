@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @motsamairantho
-- 👀 I’m interested in: IBM Cloud Paks, Kubernetes, APIConomy
+- 👀 I’m interested in: IBM Cloud Paks, Kubernetes, APIEconomy
 - 🌱 I’m currently learning: Kubernetes administration
-- 💞️ I’m looking to collaborate on: IBM integration, API-Conomy & CNAP
+- 💞️ I’m looking to collaborate on: IBM integration, API-Economy & CNAP
 - 📫 How to reach me: motsamairantho@gmail.com | motsamai.rantho@sott.co.za
 
 <!---
